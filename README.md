@@ -115,7 +115,6 @@
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/Q4.16_1.png)
 ## Q4.17_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/Q4.17_1.png)
-## Q4.17_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/Q4.17_2.png)
 ## Q4.18_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/Q4.18_1.png)
@@ -295,7 +294,6 @@
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.18_1.png)
 ## R3.19_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.19_1.png)
-## R3.19_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.19_2.png)
 ## R3.1_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.1_1.png)
@@ -307,17 +305,14 @@
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.3_1.png)
 ## R3.4_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.4_1.png)
-## R3.4_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.4_2.png)
 ## R3.5_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.5_1.png)
 ## R3.6_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.6_1.png)
-## R3.6_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.6_2.png)
 ## R3.7_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.7_1.png)
-## R3.7_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.7_2.png)
 ## R3.8_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/R3.8_1.png)
@@ -389,7 +384,6 @@
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.19_1.png)
 ## RF.1_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.1_1.png)
-## RF.1_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.1_2.png)
 ## RF.20_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.20_1.png)
@@ -415,11 +409,9 @@
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.2_1.png)
 ## RF.30_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.30_1.png)
-## RF.30_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.30_2.png)
 ## RF.31_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.31_1.png)
-## RF.31_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.31_2.png)
 ## RF.32_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.32_1.png)
@@ -427,7 +419,6 @@
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.33_1.png)
 ## RF.34_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.34_1.png)
-## RF.34_2.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.34_2.png)
 ## RF.35_1.png
 ![screenshot](https://github.com/robnob/Python_Essentiels1/blob/main/RF.35_1.png)
